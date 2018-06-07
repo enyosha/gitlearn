@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git complete update to GitHub now.
 Creating a new branch is quick
+Creating a new branch AND simple
